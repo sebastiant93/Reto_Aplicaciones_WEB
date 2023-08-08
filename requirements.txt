@@ -2,16 +2,10 @@
 
 # D:\dev\streamlit-dcps-covid\get_cases.py: 1
 # D:\dev\streamlit-dcps-covid\web.py: 1
-pandas == 1.4.0
+pandas
 
 # D:\dev\streamlit-dcps-covid\web.py: 2,6
-plotly == 5.5.0
+plotly
 
 # D:\dev\streamlit-dcps-covid\get_cases.py: 3
-python_dateutil == 2.8.2
-
-# D:\dev\streamlit-dcps-covid\get_cases.py: 1
-requests == 2.27.1
-
-# D:\dev\streamlit-dcps-covid\web.py: 1
-streamlit == 1.5.0
+python_dateutil
