@@ -1,4 +1,3 @@
-%%writefile myfirstapp.py
 #*****************Importación de librerías
 import streamlit as st
 import pandas as pd
