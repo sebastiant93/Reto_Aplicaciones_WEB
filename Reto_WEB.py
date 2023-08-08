@@ -49,7 +49,7 @@ markdown_style()
 #**********Barra lateral con controles de filtrado para el dashboard
 
 with st.sidebar:
-    logo=Image.open("/content/drive/MyDrive/Colab Notebooks/ArchivosCarga/Logo.png")
+    logo=Image.open("Logo.png")
     st.image(logo)
     st.markdown("## Controles")
     genero=st.sidebar.radio("Elige el género",data["gender"].unique())
