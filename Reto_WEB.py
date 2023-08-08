@@ -36,7 +36,7 @@ def markdown_style():
 #**********Lectura de Archivos
 
 #Se toma el archivo fuente
-data=pd.read_csv("/content/drive/MyDrive/Colab Notebooks/ArchivosCarga/Employee_data.csv")
+data=pd.read_csv("Employee_data.csv")
 
 #Se mantienen únicamente los campos indicados en el ejercicio
 
