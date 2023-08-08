@@ -2,7 +2,6 @@
 import streamlit as st
 import pandas as pd
 from PIL import Image
-%pip install plotly 
 import plotly.express as px
 import altair as alt
 
