@@ -1,5 +1,4 @@
 #*****************Importación de librerías
-py -m pip install -r requirements.txt
 import streamlit as st
 import pandas as pd
 from PIL import Image
